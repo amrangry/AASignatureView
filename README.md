@@ -57,10 +57,17 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 # Installation
 
-`AASignatureView` can be installed using CocoaPods, Carthage, or manually.
+`AASignatureView` can be installed using CocoaPods, Carthage, SPM or manually.
 
 
 <div id='section-id-37'/>
+
+
+##SPM
+
+```
+https://github.com/amrangry/AASignatureView
+```
 
 ##CocoaPods
 
